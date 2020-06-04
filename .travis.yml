@@ -7,4 +7,4 @@ python:
   - "3.7"
   - "3.8"
 script:
-  gradingscript
+  gradingscript.sh
